@@ -1,0 +1,52 @@
+/* ===== General ===== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    background:#eef3f8;
+}
+
+/* ===== Header ===== */
+
+header{
+    background:#07294d;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+/* ===== Main Card ===== */
+
+.card{
+    width:900px;
+    max-width:95%;
+    margin:30px auto;
+    background:white;
+    border-radius:10px;
+    padding:25px;
+    box-shadow:0 8px 20px rgba(0,0,0,.15);
+}
+
+/* ===== Table ===== */
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+}
+
+td{
+    border:1px solid #ddd;
+    padding:12px;
+}
+
+/* ===== Button ===== */
+
+button{
+    width:100%;
+    padding:15px;
