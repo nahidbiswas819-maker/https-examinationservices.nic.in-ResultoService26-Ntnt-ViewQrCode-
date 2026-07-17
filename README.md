@@ -1,0 +1,1 @@
+# https-examinationservices.nic.in-ResultoService26-Ntnt-ViewQrCode-
